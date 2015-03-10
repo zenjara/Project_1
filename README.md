@@ -1,2 +1,2 @@
 # Project_1
-Prvi projekt
+Ovo je prvi projekt eh eheh
