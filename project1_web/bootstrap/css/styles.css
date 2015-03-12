@@ -14,14 +14,22 @@ Notes:	 Hand coded for Udemy.com
    Jumbotron
    -------------------------------------- */
 .jumbotron{
-    min-height: 500px;
-    background: url("../../images/background2.jpg") ;
-    background-attachment: fixed;
-    color: #ffffff;
-    margin-bottom: 0;
-    margin-top: 0;
-}
 
+    position: relative;
+    background: url("../../images/plaza_1.jpg") center center no-repeat;
+    background-attachment: fixed ;
+    background-size: cover;
+    min-height: 900px;
+    margin-bottom: 8px;
+    margin-top: 0px;
+}
+#btn1{
+    position: absolute;
+    right: 10%;
+    top: 50%;
+    padding: 20px ;
+    font-size: 22px;
+}
 
 /* --------------------------------------
    Typography
@@ -76,6 +84,70 @@ form .btn{
 }
 #slide3{
     background: url("../../images/tice.jpg") top center no-repeat;
+}
+
+#myCarousel2{
+    margin-top:20px;
+}
+.carousel-caption{
+    font-size: 24px;
+}
+.carousel-caption h4{
+    font-size: 32px;
+}
+#myCarousel2 .item{
+    height: 400px;
+}
+#slide11{
+    background: url("../../images/green.jpg") top center no-repeat;
+}
+#slide22{
+    background: url("../../images/violet.jpg") top center no-repeat;
+}
+#slide33{
+    background: url("../../images/blue.jpg") top center no-repeat;
+}
+#myCarousel3{
+    margin-top:20px;
+}
+.carousel-caption{
+    font-size: 24px;
+}
+.carousel-caption h4{
+    font-size: 32px;
+}
+#myCarousel3 .item{
+    height: 400px;
+}
+#slide13{
+    background: url("../../images/green.jpg") top center no-repeat;
+}
+#slide23{
+    background: url("../../images/violet.jpg") top center no-repeat;
+}
+#slide333{
+    background: url("../../images/blue.jpg") top center no-repeat;
+}
+#myCarousel4{
+    margin-top:20px;
+}
+.carousel-caption{
+    font-size: 24px;
+}
+.carousel-caption h4{
+    font-size: 32px;
+}
+#myCarousel4 .item{
+    height: 400px;
+}
+#slide14{
+    background: url("../../images/green.jpg") top center no-repeat;
+}
+#slide24{
+    background: url("../../images/violet.jpg") top center no-repeat;
+}
+#slide34{
+    background: url("../../images/blue.jpg") top center no-repeat;
 }
 
 
